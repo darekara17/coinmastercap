@@ -1,0 +1,2 @@
+# coinmastercap
+code
